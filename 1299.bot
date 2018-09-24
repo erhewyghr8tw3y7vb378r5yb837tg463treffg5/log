@@ -628,4 +628,4 @@ client.on('voiceStateUpdate', (voiceOld, voiceNew) => {
 });
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.1299);
