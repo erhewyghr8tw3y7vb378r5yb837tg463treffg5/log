@@ -2,7 +2,7 @@
   "name": "ignite",
   "version": "2.1.0",
   "description": " ",
-  "main": "1299.js",
+  "main": "bot.js",
   "scripts": {
     "start": "node 1299.js"
   },
