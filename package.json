@@ -2,9 +2,9 @@
   "name": "ignite",
   "version": "2.1.0",
   "description": " ",
-  "main": "bot.js",
+  "main": "1299.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node 1299.js"
   },
   "dependencies": {
     "ascii-data-table": "^2.1.1",
